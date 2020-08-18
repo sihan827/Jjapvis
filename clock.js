@@ -1,3 +1,4 @@
+//clcok
 const clockContainer = document.querySelector(".js-clock");
 const clockTitle = clockContainer.querySelector(".js-title");
 
